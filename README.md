@@ -2,7 +2,7 @@
 
 ## Gradle
 ```gradle
-    repositories {
-        maven("https://vanillovv.github.io/maven")
-    }
+repositories {
+    maven("https://vanillovv.github.io/maven")
+}
 ```
