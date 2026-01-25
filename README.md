@@ -2,10 +2,7 @@
 
 ## Gradle
 ```gradle
-repositories {
-  maven {
-    name = 'vanillovv-maven'
-    url = 'https://vanillovv.github.io/maven/'
-  }
-}
+    repositories {
+        maven("https://vanillovv.github.io/maven")
+    }
 ```
